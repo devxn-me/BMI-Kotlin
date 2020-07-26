@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Your Result:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="pria">PRIA</string>
+    <string name="calculate">Calculate as:</string>
+    <string name="wanita">WANITA</string>
+</resources>
